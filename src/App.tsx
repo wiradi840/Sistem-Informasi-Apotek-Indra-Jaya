@@ -18,6 +18,8 @@ import Footer from './components/Footer';
 import CartDrawer from './components/CartDrawer';
 import ConsultationModal from './components/ConsultationModal';
 import { Product, CartItem } from './types';
+import pharmacistImage from "./assets/images/pharmacist_hero_1782712511677.jpg";
+import vitaminsPromoImage from "./assets/images/vitamins_promo_1782712529131.jpg";
 
 export default function App() {
   const [activeSection, setActiveSection] = useState('home');
@@ -28,8 +30,8 @@ export default function App() {
   const [consultationDefaultTab, setConsultationDefaultTab] = useState<'prescription' | 'chat'>('prescription');
 
   // Exact generated paths from image tool
-import pharmacistImage from "./assets/images/pharmacist_hero_1782712511677.jpg";
-import vitaminsPromoImage from "./assets/images/vitamins_promo_1782712529131.jpg";
+//import pharmacistImage from "./assets/images/pharmacist_hero_1782712511677.jpg";
+//import vitaminsPromoImage from "./assets/images/vitamins_promo_1782712529131.jpg";
 
   // Smooth scroll to target sections on navigation click
   const handleNavClick = (sectionId: string) => {
