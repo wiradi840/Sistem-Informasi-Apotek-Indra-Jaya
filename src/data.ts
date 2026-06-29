@@ -64,7 +64,7 @@ export const PRODUCTS: Product[] = [
     originalPrice: 230000,
     description: 'Multivitamin lengkap untuk memenuhi kebutuhan vitamin dan mineral harian guna menjaga kebugaran tubuh secara maksimal.',
     category: 'vitamin-suplemen',
-    image: 'https://placehold.co/400x400?text=Blackmores',
+    image: 'https://images.alodokter.com/dk0z4ums3/image/upload/v1761612466/attached_image/blackmores-multivitamin-body-shield-0-alodokter.jpg',
     isPromo: true,
     discountPercent: 20,
     unit: 'Botol (30 Tablet)',
