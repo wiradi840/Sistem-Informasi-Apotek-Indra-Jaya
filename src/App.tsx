@@ -30,8 +30,8 @@ export default function App() {
   const [consultationDefaultTab, setConsultationDefaultTab] = useState<'prescription' | 'chat'>('prescription');
 
   // Exact generated paths from image tool
-//import pharmacistImage from "./assets/images/pharmacist_hero_1782712511677.jpg";
-//import vitaminsPromoImage from "./assets/images/vitamins_promo_1782712529131.jpg";
+  const pharmacistImage = '/src/assets/images/pharmacist_hero_1782712511677.jpg';
+  const vitaminsPromoImage = '/src/assets/images/vitamins_promo_1782712529131.jpg';
 
   // Smooth scroll to target sections on navigation click
   const handleNavClick = (sectionId: string) => {
