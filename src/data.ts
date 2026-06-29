@@ -79,7 +79,7 @@ export const PRODUCTS: Product[] = [
     originalPrice: 8500,
     description: 'Minuman kesehatan dengan kandungan Vitamin C 1000mg yang segar dan membantu menjaga daya tahan tubuh setiap hari.',
     category: 'vitamin-suplemen',
-    image: 'https://images.unsplash.com/photo-1622483767028-3f66f32aef97?auto=format&fit=crop&q=80&w=400',
+    image: 'https://images.alodokter.com/dk0z4ums3/image/upload/v1761612466/attached_image/blackmores-multivitamin-body-shield-0-alodokter.jpg',
     isPromo: true,
     discountPercent: 15,
     unit: 'Botol Kaca (140ml)',
