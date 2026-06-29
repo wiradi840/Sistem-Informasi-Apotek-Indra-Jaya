@@ -1,0 +1,6 @@
+{
+  "name": "Apotek Sehat",
+  "description": "Website apotek modern premium yang bersih, responsif, dan lengkap dengan katalog produk serta konsultasi online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
